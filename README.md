@@ -48,7 +48,6 @@ pnpm dev
 
 - **Framework:** [Next.js](https://nextjs.org/) - React framework with server-side rendering
 - **Authentication:** [Clerk](https://clerk.com/) - Modern user authentication and management
-- **Styling:** Geist font family (optimized with `next/font`)
 - **Language:** TypeScript/JavaScript
 - **Deployment:** Optimized for [Vercel](https://vercel.com)
 
