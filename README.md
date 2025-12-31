@@ -2,14 +2,14 @@
 
 A modern, intelligent PDF management tool built with Next.js that helps you interact with your PDF documents seamlessly.
 
-## ✨ Features
+##  Features
 
-- 🔐 **Secure Authentication** - Powered by Clerk for robust user authentication
-- 📱 **Modern UI** - Built with Next.js 14+ and optimized with Geist font family
-- ⚡ **Fast Performance** - Server-side rendering and optimized React components
-- 🎨 **Responsive Design** - Works flawlessly across all devices
+-  **Secure Authentication** - Powered by Clerk for robust user authentication
+-  **Modern UI** - Built with Next.js 14+ and optimized with Geist font family
+-  **Fast Performance** - Server-side rendering and optimized React components
+-  **Responsive Design** - Works flawlessly across all devices
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -51,7 +51,7 @@ pnpm dev
 - **Language:** TypeScript/JavaScript
 - **Deployment:** Optimized for [Vercel](https://vercel.com)
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 pdf-buddy/
@@ -62,7 +62,7 @@ pdf-buddy/
 └── ...
 ```
 
-## 🔧 Development
+## Development
 
 The project uses Next.js App Router. You can start editing by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
@@ -73,7 +73,7 @@ The project uses Next.js App Router. You can start editing by modifying `app/pag
 - `npm run start` - Start production server
 - `npm run lint` - Run ESLint
 
-## 📚 Learn More
+## Learn More
 
 To learn more about the technologies used in this project:
 
@@ -81,7 +81,7 @@ To learn more about the technologies used in this project:
 - [Clerk Documentation](https://clerk.com/docs) - Authentication and user management
 - [Learn Next.js](https://nextjs.org/learn) - Interactive Next.js tutorial
 
-## 🚢 Deployment
+## Deployment
 
 The easiest way to deploy PDF Buddy is using the [Vercel Platform](https://vercel.com/new):
 
@@ -92,10 +92,10 @@ The easiest way to deploy PDF Buddy is using the [Vercel Platform](https://verce
 
 For more details, check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment).
 
-## 👨‍💻 Author
+## Author
 **ssreyz**
 - GitHub: [@ssreyz](https://github.com/ssreyz)
 
 ---
 
-Made with PASSION using Next.js and Clerk
+Made with PASSION using Next.js 
